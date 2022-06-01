@@ -1,2 +1,2 @@
 #!/bin/bash
-touch active "$PATH"
+export PATH="$PATH:/action"
