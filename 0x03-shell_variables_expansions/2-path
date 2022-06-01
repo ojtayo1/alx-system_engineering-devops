@@ -1,2 +1,2 @@
 #!/bin/bash
-#touch active "$PATH"
+touch active "$PATH"
