@@ -1,2 +1,2 @@
-#!/bin/bashe
-echo "action $PATH"
+#!/bin/bash
+#touch active "$PATH"
